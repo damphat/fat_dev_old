@@ -72,3 +72,10 @@ build/
 !**/ios/**/default.mode2v3
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
+
+
+// damphat: ignore my personal development folders
+ios
+android
+windows
+web
